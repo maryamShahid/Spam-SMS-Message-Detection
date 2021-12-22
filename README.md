@@ -1,6 +1,6 @@
 # Spam-SMS-Message-Detection
 
-Classifier consists of a multinomial naive bayes model and a bernoulli naive bayes model
+Classifier consists of a multinomial naive bayes model and a bernoulli naive bayes model and mutual information feature selection
 
 It is trained and testing on the following dataset:
 
